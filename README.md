@@ -5,9 +5,14 @@ Heart Rate Monitor adalah sistem berbasis mikrokontroler yang digunakan untuk me
 <br>
 <ul>
 <li>Pengukuran detak jantung secara real-time.</li>
-<li>Menampilkan nilai BPM pada serial monitor atau LCD/OLED.</li>
-<li>Monitoring jarak jauh menggunakan dashboard web.</li>
+<li>Menampilkan nilai BPM menggunakan dashboard web</li>
 <li>Peringatan apabila detak jantung berada di luar batas normal.</li>
+</ul>
+
+# Hardware
+<ul>
+<li>ESP32</li>
+<li>Pulse Heart Rate Sensor</li>
 </ul>
 
 # Contributor
