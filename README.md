@@ -57,11 +57,11 @@ Proyek ini bertujuan untuk membangun sistem monitoring detak jantung yang sederh
 ---
 
 ## 📷 Dokumentasi
-*Low-Rate BPM
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Hernada/Mikrokontroller/blob/a5a338ef73dfe19224f82ef2a819522b39d4cefa/High-rate.gif">
-
-*High-Rate BPM
+**Low-Rate BPM**<br>
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Hernada/Mikrokontroller/blob/a5a338ef73dfe19224f82ef2a819522b39d4cefa/Low-rate.gif">
+
+**High-Rate BPM**<br>
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Hernada/Mikrokontroller/blob/a5a338ef73dfe19224f82ef2a819522b39d4cefa/High-rate.gif">
 
 ---
 
@@ -80,3 +80,18 @@ Proyek ini bertujuan untuk membangun sistem monitoring detak jantung yang sederh
 * Arduino IDE
 * RTOS
 * HTTP Dashboard Web
+
+---
+
+## Contributor
+Nama    : Rizki Fauzi<br>
+NPM     : 23552011070<br>
+Username: Ikki-uzi
+
+Nama    : Adi Esa Putra<br>
+NPM     : 23552011230<br>
+Username: adiesaputra2011230
+
+Nama    : Muhammad Nabil Hernada<br>
+NPM     : 23552011064<br>
+Username: Hernada
